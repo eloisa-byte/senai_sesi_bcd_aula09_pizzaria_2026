@@ -6,3 +6,6 @@ Este repositório contém as atividades práticas desenvolvidas durante a **Aula
 * **SGBD:** MySQL / MariaDB (via XAMPP / PhpMyAdmin)
 * **Editor de Código:** Visual Studio Code (VS Code)
 * **Linguagem:** SQL (DDL, DML, DQL)
+
+## Modelo Conceitual do Banco de Dados
+![Modelo Conceitual](modelo_conceitual01.png)
